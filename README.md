@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Nest application, which uses WeatherAPI to get weather forecast data, writes it to DB and returns to user. Runs with docker. To see the documentation start the app and open [swagger](localhost:3000/api-docs).
+This is a Nest application, which uses WeatherAPI to get weather forecast data, writes it to DB and returns to user. Runs with docker. To see the documentation start the app and open [swagger](http://localhost:3000/api-docs).
 
 ## Running the app
 
@@ -20,6 +20,3 @@ $ npm run test
 
 - Author - [Ivan Markhiachuk](mailto:vanya04400@gmail.com)
 
-## License
-
-Nest is [MIT licensed](LICENSE).
